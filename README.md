@@ -3,11 +3,14 @@
 # Project MVP 
 Login & Registration w/validations
 CSS w/bootstrap (mobile responsive)
-Model _____ table with CRUD functionality
+Model Story table with CRUD functionality
 Validations show 
 Protected routes
 
-Ideal 
+#Backlog 
 Public Deployment
-API INtegrated (Mapping and/or Payment)
-Many to Many relationships
+API INtegrated (Joke API)
+Likes and Comments
+Story Artwork
+Search Function
+Story Co-creation space (Story created by several different authors in sections)

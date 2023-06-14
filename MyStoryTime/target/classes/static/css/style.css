@@ -1,0 +1,57 @@
+body {
+    background-color: #252422;
+}
+
+.navbar {
+    background-color: #fffcf2 ;
+    border-radius: 5px;
+}
+
+.display {
+    color: #fffcf2;
+}
+
+.btn {
+    background-color: #eb5e28;
+}
+
+.profilePicture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    padding : 4px;
+}
+
+.picSpace {
+    width: 300px;
+    height: 300px;
+}
+
+.storyCard {
+    background-color: #403d39;
+    border-radius: 10px;
+}
+
+.commentCard {
+    background-color: #fffcf2 ;
+    border-radius: 10px;
+}
+
+.profilePicturePage {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.add-story {
+    height: 40px;
+}
+
+.page {
+    background-color: #403d39;  
+}
+
+.jokeTitle {
+    text-decoration: underline;
+    color: #eb5e28;
+}

@@ -9,10 +9,7 @@ Protected routes
 
 #Backlog 
 Public Deployment
-API INtegrated (Joke API)
-Likes and Comments
 Story Artwork
-Search Function
 Story Co-creation space (Story created by several different authors in sections)
 
 
@@ -35,3 +32,6 @@ dashboard - pages
 subcomments(replies)
 Dashboard: most liked and newest sections
 email verification
+Public Deployment
+Story Artwork
+Story Co-creation space (Story created by several different authors in sections)

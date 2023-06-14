@@ -25,14 +25,13 @@ Validations show
 Protected routes
 API INtegrated
 Likes and Comments
-
-#Still to Go
 Intro on dashboard
 change stories to table labeling what you are seeing
-subcomments(replies)
 Mystories- if empty putting "You havent  written a story yet!"
 Search function :
 dashboard - pages
 
+#Still to Go
+subcomments(replies)
 Dashboard: most liked and newest sections
 email verification

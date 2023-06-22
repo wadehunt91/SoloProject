@@ -30,8 +30,10 @@ dashboard - pages
 
 #Still to Go
 subcomments(replies)
+  - Will do One-To-Many with comments
 Dashboard: most liked and newest sections
 email verification
 Public Deployment
+  -Already Deployed
 Story Artwork
 Story Co-creation space (Story created by several different authors in sections)
